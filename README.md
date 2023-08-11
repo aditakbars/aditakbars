@@ -9,7 +9,7 @@ Let's connect and collaborate! Feel free to reach me out on [Instagram](https://
 
 <p align="left">
 <a href="https://github.com/aditakbars">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditakbars&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditakbars&layout=compact&langs_count=8&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditakbars&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditakbars&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
