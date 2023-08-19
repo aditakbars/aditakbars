@@ -13,3 +13,5 @@ Let's connect and collaborate! Feel free to reach me out on [Instagram](https://
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditakbars&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=aditakbars)
