@@ -14,7 +14,7 @@ Let's connect and collaborate! Feel free to reach me out on [Instagram](https://
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditakbars&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditakbars&theme=dark&hide_border=true&border_radius=5&card_width=500&ring=EBEBEB&background=45%2C005CEB%2CEB2CBE&currStreakNum=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&currStreakLabel=FFFFFF&fire=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aditakbars&theme=nightowl)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=aditakbars)
 </div>
