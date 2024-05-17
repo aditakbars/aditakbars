@@ -16,5 +16,7 @@ Let's connect and collaborate! Feel free to reach me out on [Instagram](https://
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aditakbars&theme=nightowl)](https://git.io/streak-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditakbars&theme=discord" alt="aditakbars" /></a> </p>
+
 ![](https://komarev.com/ghpvc/?username=aditakbars)
 </div>
